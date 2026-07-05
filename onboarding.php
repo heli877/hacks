@@ -21,7 +21,7 @@ $username = $_SESSION["user"];
 
   <div class="brand">
     <div class="brand-icon">🔒</div>
-    MiPlataforma
+    CodeQuestion
   </div>
 
   <div class="card onboard-wrap" id="stepChoice">

@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   <div class="brand">
     <div class="brand-icon">🔒</div>
-    MiPlataforma
+    CodeQuestion
   </div>
 
   <div class="card">
